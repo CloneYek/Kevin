@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CheckRepeat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckRepeat_jar</output-path>
+    <root id="archive" name="CheckRepeat.jar">
+      <element id="module-output" name="CheckRepeat" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/huaban/jieba-analysis/1.0.2/jieba-analysis-1.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
